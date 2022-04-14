@@ -25,3 +25,8 @@
 5. ***Time_series_Markov_chain*** – прогноз для временного ряда с помощью Марковских цепей. Построение матрицы переходных вероятностей для букв текста.
     * **Библиотеки:** re, pandas, numpy, matplotlib, seaborn, hmmlearn
     * **Методы:** регулярные выражения, матрица переходных вероятностей, Hidden Markov model
+
+6. ***Wine Quality*** - решение задачи классификации на несбалансированных данных.
+   * **Библиотеки:** pandas, numpy, scipy, imblearn, sklearn, matplotlib, seaborn
+   * **Методы:** стратификация, oversampling, ADASYN, Logistic Regression, KNearestNeighbors
+   * **Датасет:** Wine Quality (https://www.kaggle.com/datasets/rajyellow46/wine-quality)
